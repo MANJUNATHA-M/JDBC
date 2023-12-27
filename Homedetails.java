@@ -1,6 +1,8 @@
 package com.home.select;
 import java.sql.*;
 
+// SELECT -->executeQuery  Returntype--> ResultSet
+
 public class Homedetails {
 
 	public static void main(String[] args) throws Exception
